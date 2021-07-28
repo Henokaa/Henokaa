@@ -1,4 +1,4 @@
-### Hi there, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hye there, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Henok.
 
 ## I'm a Data Analyst, Full stack developer, software engineer and Teacher!!
 
