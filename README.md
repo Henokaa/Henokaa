@@ -9,7 +9,7 @@ I'm Henok.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love muay thai🥋
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=gediont&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
 <br />
 
