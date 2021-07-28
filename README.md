@@ -1,12 +1,13 @@
-### Hye there, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Henok.
+### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm Henok.
 
-## I'm a Data Analyst, Full stack developer, software engineer and Teacher!!
+## I'm a Data Analyst, Full stack developer, Software engineer and Teacher!!
 
 - 🔭 I just launched my : !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others and looking for oppurtunit
+- 🌱 I’m currently a student
+- 👯 I’m looking to collaborate with others and work on projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love muay thai🥋
 
 ### Connect with me:
 
