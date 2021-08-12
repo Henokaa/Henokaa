@@ -3,7 +3,6 @@ I'm Henok.
 
 ## I'm a Data Analyst, Full Stack Developer, Software Engineer and Teacher!!
 
-- 🔭 I just launched my : !
 - 🌱 I’m currently a student
 - 👯 I’m looking to collaborate with others and work on projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
