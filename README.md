@@ -1,7 +1,13 @@
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I'm Henok.
 
-## I'm a Data Analyst, Full Stack Developer, Software Engineer and Teacher!!
+## I am a Fullstack Developer that focuses on front end frameworks such as React and build tools such as Webpack. I
+have a passion and diligence for Design Systems, and Data Analytics. I am interested in pursuing Machine
+Learning and related roles after graduation.
+
+As a hobbie I love to join hackathons. It's a challenging task that forces me to peel back to all the knowledge I've
+gained and put into practice. It forces me to acknowledge my gaps and work on enhancing my skills. For me to
+ever master a concept, I have to put it to practice
 
 - 🌱 I’m currently a student
 - 👯 I’m looking to collaborate with others and work on projects
