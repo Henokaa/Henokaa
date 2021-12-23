@@ -1,7 +1,7 @@
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I'm Henok.
 
-## I am a Fullstack Developer interested in pursuing Data science after graduation.
+## I am a Fullstack Developer, Interested in pursuing Data science after graduation.
 I have a passion and diligence for Design Systems, and Data Analytics. I am interested in pursuing Machine
 Learning and related roles after graduation.
 
