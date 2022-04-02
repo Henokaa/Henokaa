@@ -2,8 +2,7 @@
 I'm Henok.
 
 ## I am a Fullstack Developer, Interested in pursuing Data science after graduation.
-I have a passion and diligence for Design Systems, and Data Analytics. I am interested in pursuing Machine
-Learning and related roles after graduation.
+Hye, I’m Henok Fisseha residing in this beautiful world. I am a Fullstack Developer that focuses on pursuing Machine Learning and full-stack development role after graduation. I have a passion and diligence for Software Development, Artificial intelligence, and user experience development.  
 
 As a hobbie I love to join hackathons. It's a challenging task that forces me to peel back to all the knowledge I've
 gained and put into practice. It forces me to acknowledge my gaps and work on enhancing my skills. For me to
@@ -11,8 +10,8 @@ ever master a concept, I have to put it to practice
 
 - 🌱 I’m currently a student
 - 👯 I’m looking to collaborate with others and work on projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love muay thai🥋
+- 🥅 2022 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love my work 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
