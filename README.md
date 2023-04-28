@@ -8,7 +8,7 @@ As a hobbie I love to join hackathons. It's a challenging task that forces me to
 gained and put into practice. It forces me to acknowledge my gaps and work on enhancing my skills. For me to
 ever master a concept, I have to put it to practice
 
-- 🌱 Here is my portofolio https://henoka.netlify.app/
+- 🌱 Here is my portofolio website https://henoka.netlify.app/
 - 👯 I’m looking to collaborate with others and work on projects
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love my work 
