@@ -2,14 +2,16 @@
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I'm Henok.
 
-Here is my portofolio website https://henoka.netlify.app/
+To get to know me - https://henoka.netlify.app/
 
-## I am a Software Engineer And Competitive Programmer.
-Hye, I’m Henok Fisseha residing in this beautiful world. I am a Software Engineer that focuses on pursuing Machine Learning and full-stack development role. I have a passion and diligence for Software Development, Artificial intelligence, and user experience development.  
+## I am a pursuing Data Scienctist, SWE, MLOps.
+Hello, I’m Henok Fisseha residing in this beautiful world. I am a data scientist and software engineer. With a passion for artificial intelligence, full-stack development and MLOps.
 
-As a hobbie I love to join hackathons. It's a challenging task that forces me to peel back to all the knowledge I've
-gained and put into practice. It forces me to acknowledge my gaps and work on enhancing my skills. For me to
-ever master a concept, I have to put it to practice
+As a hobby, I love to teach. It's a challenging task that forces me to peel back all the knowledge I've gained and put it into practice.
+
+For me, mastery comes not just from learning, but from putting that knowledge into practice. That's why I'm always looking for new projects and opportunities to hone my skills and make a positive impact.
+
+Thanks for visiting my portfolio, and feel free to contact me to discuss potential collaborations.
 
 - 🌱 Here is my portofolio website https://henoka.netlify.app/
 - 👯 I’m looking to collaborate with others and work on projects
