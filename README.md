@@ -13,7 +13,6 @@ For me, mastery comes not just from learning, but from putting that knowledge in
 
 Thanks for visiting my portfolio, and feel free to contact me to discuss potential collaborations.
 
-- 🌱 Here is my portofolio website 
 - 👯 I’m looking to collaborate with others and work on projects
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love my work 
