@@ -2,7 +2,7 @@
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I'm Henok.
 
-To get to know me - https://henoka.netlify.app/
+
 
 ## I am a pursuing Data Scienctist, Software Engineer, MLOps.
 Hello, I’m Henok Fisseha residing in this beautiful world. I am a data scientist and software engineer. With a passion for artificial intelligence, full-stack development and MLOps.
