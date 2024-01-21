@@ -4,7 +4,7 @@ I'm Henok.
 
 To get to know me - https://henoka.netlify.app/
 
-## I am a pursuing Data Scienctist, SWE, MLOps.
+## I am a pursuing Data Scienctist, Software Engineer, MLOps.
 Hello, I’m Henok Fisseha residing in this beautiful world. I am a data scientist and software engineer. With a passion for artificial intelligence, full-stack development and MLOps.
 
 As a hobby, I love to teach. It's a challenging task that forces me to peel back all the knowledge I've gained and put it into practice.
