@@ -17,7 +17,7 @@ Thanks for visiting my portfolio, and feel free to contact me to discuss potenti
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love my work
 
-  ![Example Image](./leetcoder.jpg)
+  ![Example Image](./Leetcoder.png)
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
