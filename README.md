@@ -9,6 +9,8 @@ Hello, I’m Henok Fisseha residing in this beautiful world. I am a data scienti
 
 As a hobby, I love to teach. It's a challenging task that forces me to peel back all the knowledge I've gained and put it into practice.
 
+  ![Leetcode Image](./Leetcoder.png)
+  
 For me, mastery comes not just from learning, but from putting that knowledge into practice. That's why I'm always looking for new projects and opportunities to hone my skills and make a positive impact.
 
 Thanks for visiting my portfolio, and feel free to contact me to discuss potential collaborations.
@@ -17,7 +19,7 @@ Thanks for visiting my portfolio, and feel free to contact me to discuss potenti
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love my work
 
-  ![Example Image](./Leetcoder.png)
+
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
