@@ -15,7 +15,9 @@ Thanks for visiting my portfolio, and feel free to contact me to discuss potenti
 
 - 👯 I’m looking to collaborate with others and work on projects
 - 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love my work 
+- ⚡ Fun fact: I love my work
+
+  ![Example Image](./leetcoder.jpg)
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
 
