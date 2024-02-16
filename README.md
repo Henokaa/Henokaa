@@ -11,6 +11,7 @@ As a hobby, I love to teach. It's a challenging task that forces me to peel back
 
   ![Leetcode Image](./Leetcoder.png)
 <a href="https://github.com/Henokaa/Datastructure-leetcode-practice2"> Leetcode </a>
+<br />
 For me, mastery comes not just from learning, but from putting that knowledge into practice. That's why I'm always looking for new projects and opportunities to hone my skills and make a positive impact.
 
 Thanks for visiting my portfolio, and feel free to contact me to discuss potential collaborations.
