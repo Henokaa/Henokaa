@@ -4,10 +4,13 @@ I'm Henok.
 
 
 
-## I am a pursuing Data Scienctist, Software Engineer, MLOps.
-Hello, I’m Henok Fisseha residing in this beautiful world. I am a data scientist and software engineer. With a passion for artificial intelligence, full-stack development and MLOps.
+## I am a Software Engineer & Data Scientist.
 
-As a hobby, I love to teach. It's a challenging task that forces me to peel back all the knowledge I've gained and put it into practice.
+Hello there!☺️I am a software engineer and a data scientist with a strong foundation in machine learning, software engineering, networking, and security.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/henok-tadele-b781aa176/))
 
   ![Leetcode Image](./Leetcoder.png)
   <br />
