@@ -10,7 +10,7 @@ Hello there!☺️I am a software engineer and a data scientist with a strong fo
 
 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/henok-tadele-b781aa176/]])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/henok-tadele-b781aa176/])
 
   ![Leetcode Image](./Leetcoder.png)
   <br />
