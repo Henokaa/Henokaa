@@ -11,12 +11,12 @@ Hello there!☺️I am a software engineer and a data scientist with a strong fo
 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-tadele-b781aa176/)
 
-**Connect with me**
+<br />
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/henokaa/)
 
 
   ![Leetcode Image](./Leetcoder.png)
-  <br />
+  
 <a href="https://github.com/Henokaa/Datastructure-leetcode-practice2"> Leetcode </a>
 <br />
 For me, mastery comes not just from learning, but from putting that knowledge into practice. That's why I'm always looking for new projects and opportunities to hone my skills and make a positive impact.
