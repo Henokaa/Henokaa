@@ -8,9 +8,11 @@ I'm Henok.
 
 Hello there!☺️I am a software engineer and a data scientist with a strong foundation in machine learning, software engineering, networking, and security.
 
-# Connect with me
-
+**Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-tadele-b781aa176/)
+
+**Connect with me**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/henokaa/)
 
 
   ![Leetcode Image](./Leetcoder.png)
