@@ -1,30 +1,33 @@
 <!-- GitHub Profile README -->
 
-<!-- GitHub Profile README -->
+<table>
+  <tr>
+    <td width="60%">
 
-<div align="center">
+## 👋🏾 Hey there, I'm Henok — A Software Engineer
 
-| 👋🏾 Hey there, I’m **Henok** — Software Engineer | <img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok’s photo" width="200" style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);" /> |
-| :------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------: |
-| <p align="left">  
-  <em style="color:#718096;font-size:0.95rem;">
-    [ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]
-  </em>
+**[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud/Cloud-Native | Open Source | Neuroscience | Research ]**
 
-  <br/>
+---
 
-  💡 **Fueled by curiosity & caffeine**  
-  🧠 **Transforming complexity into clarity**  
-  🎮 **Debugging arena: my daily playground**  
-  🍕 **Deep learning, explained with pizza**  
-  🧪 **Research + Engineering + Fun = ❤️**
+💡 Fueled by curiosity and caffeine  
+🧠 Turning complex ideas into clean, scalable solutions  
+🎮 Debugging? It’s just a boss battle — and I always win  
+🍕 Can (and will) explain deep learning using pizza metaphors  
+🧪 Research + Engineering + Fun = My sweet spot  
 
-  <br/>
+---
 
-  **Let’s build, break, and rebuild — stronger than before!** 🚀
-</p> |
+**Let’s create, break, and rebuild — better, smarter, stronger.** 🚀
 
-</div>
+</td>
+<td align="center">
+
+<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok's photo" width="200" style="border-radius: 15px;" />
+
+</td>
+</tr>
+</table>
 
 
 
