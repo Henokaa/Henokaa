@@ -6,19 +6,17 @@
 
 ## 👋🏾 Hey there, I'm Henok — A Software Engineer
 
-**[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud/Cloud-Native | Open Source | Neuroscience | Research ]**
+**[Machine Learning & AI | NLP | Full-Stack | Research | Algorithms | Data Science]**
 
 ---
-
+💻 Writing algorithms that make machines smarter every day  
 💡 Fueled by curiosity and caffeine  
 🧠 Turning complex ideas into clean, scalable solutions  
-🎮 Debugging? It’s just a boss battle — and I always win  
-🍕 Can (and will) explain deep learning using pizza metaphors  
-🧪 Research + Engineering + Fun = My sweet spot  
+🎮 Debugging? It’s just a boss battle — and I always win
+
 
 ---
 
-**Let’s create, break, and rebuild — better, smarter, stronger.** 🚀
 ## 🌐 Socials
 
 <div align="center">
