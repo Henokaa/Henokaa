@@ -1,3 +1,24 @@
+<table>
+  <tr>
+    <td>
+
+## A Software Engineer
+
+[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]
+
+🚀 Turning coffee into scalable code, one line at a time.  
+🧩 Puzzle enthusiast: I love solving Rubik’s Cubes blindfolded.  
+👾 Fun fact: I built a retro arcade cabinet from scratch using Raspberry Pi!
+
+    </td>
+    <td>
+
+<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="photo" width="200"/>
+
+    </td>
+  </tr>
+</table>
+
  
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 I'm Henok
@@ -57,7 +78,6 @@ I'm Henok
 
 ### ✍️ Notes
 For me, mastery comes not just from learning, but from putting that knowledge into practice. That's why I'm always looking for new projects and opportunities to hone my skills and make a positive impact.
-
 
 
 
