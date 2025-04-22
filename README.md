@@ -1,51 +1,12 @@
 <!-- GitHub Profile README -->
 
-<div align="center">
+<!-- Pure‑Markdown two‑column layout -->
 
-<table>
-  <tr>
-    <!-- Left Column: Intro & Highlights -->
-    <td align="left" width="65%" style="padding-right: 20px;">
+| 👋🏾 Hey there, I’m **Henok** — A Software Engineer | <img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok’s photo" width="200" style="border-radius:15px;"/> |
+| --- | --- |
+| **[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]**<br><br>💡 Fueled by curiosity & caffeine<br>🧠 Turning complex ideas into scalable solutions<br>🎮 Debugging? My favorite boss battle<br>🍕 I once explained deep learning using pizza slices<br>🧪 Mixing research, engineering & a dash of fun<br><br>**Let’s create, break, rebuild—and innovate together!** 🚀 | &nbsp; |
 
-      <!-- Main Heading -->
-      <h1 style="margin-bottom: 4px;">👋🏾 Hey there, I’m <strong>Henok</strong></h1>
-      <h2 style="margin-top: 0; color: #555;">A Software Engineer</h2>
 
-      <!-- Tech Tags -->
-      <p style="font-size: 0.95rem; color: #333;">
-        <em>[ Algorithms | Data Science | Machine Learning &amp; AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]</em>
-      </p>
-
-      <hr style="border: none; height: 1px; background: #e2e2e2; margin: 16px 0;" />
-
-      <!-- Bullet Points -->
-      <ul style="list-style: none; padding: 0; line-height: 1.6; font-size: 1rem; color: #333;">
-        <li>💡 Fueled by curiosity &amp; caffeine</li>
-        <li>🧠 Turning complex ideas into scalable solutions</li>
-        <li>🎮 Debugging? My favorite boss battle</li>
-        <li>🍕 I once explained deep learning using pizza slices</li>
-        <li>🧪 Mixing research, engineering &amp; a dash of fun</li>
-      </ul>
-
-      <p style="margin-top: 16px; font-weight: bold; color: #222;">
-        Let’s create, break, rebuild—and innovate together! 🚀
-      </p>
-
-    </td>
-
-    <!-- Right Column: Profile Image -->
-    <td align="center" width="35%">
-      <img
-        src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659"
-        alt="Henok’s photo"
-        width="200"
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 
