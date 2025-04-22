@@ -1,10 +1,30 @@
 <!-- GitHub Profile README -->
 
-<!-- Pure‑Markdown two‑column layout -->
+<!-- GitHub Profile README -->
 
-| 👋🏾 Hey there, I’m **Henok** — A Software Engineer | <img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok’s photo" width="200" style="border-radius:15px;"/> |
-| --- | --- |
-| **[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]**<br><br>💡 Fueled by curiosity & caffeine<br>🧠 Turning complex ideas into scalable solutions<br>🎮 Debugging? My favorite boss battle<br>🍕 I once explained deep learning using pizza slices<br>🧪 Mixing research, engineering & a dash of fun<br><br>**Let’s create, break, rebuild—and innovate together!** 🚀 | &nbsp; |
+<div align="center">
+
+| 👋🏾 Hey there, I’m **Henok** — Software Engineer | <img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok’s photo" width="200" style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);" /> |
+| :------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------: |
+| <p align="left">  
+  <em style="color:#718096;font-size:0.95rem;">
+    [ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]
+  </em>
+
+  <br/>
+
+  💡 **Fueled by curiosity & caffeine**  
+  🧠 **Transforming complexity into clarity**  
+  🎮 **Debugging arena: my daily playground**  
+  🍕 **Deep learning, explained with pizza**  
+  🧪 **Research + Engineering + Fun = ❤️**
+
+  <br/>
+
+  **Let’s build, break, and rebuild — stronger than before!** 🚀
+</p> |
+
+</div>
 
 
 
