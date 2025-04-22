@@ -19,16 +19,6 @@
 ---
 
 **Let’s create, break, and rebuild — better, smarter, stronger.** 🚀
-
-</td>
-<td align="center">
-
-<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok's photo" width="200" style="border-radius: 15px;" />
-
-</td>
-</tr>
-</table>
-
 ## 🌐 Socials
 
 <div align="center">
@@ -43,11 +33,24 @@
   </a>
 </div>
 
+</td>
+<td align="center">
+
+<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok's photo" width="200" style="border-radius: 15px;"  />
+
+</td>
+</tr>
+</table>
 
 
 
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henokaa&count_private=true&show_icons=true&hide=stars&theme=tokyonight" />
+</p>
 
 <br />
 
