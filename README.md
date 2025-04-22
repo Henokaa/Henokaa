@@ -13,17 +13,19 @@
   alt="Henok's photo"
   align="right"
   width="180"
-  style="border-radius:15px; margin:0 0 2px 2px;"
 />
+<br>
 
 💻 Writing algorithms that make machines smarter every day  
 💡 Fueled by curiosity and caffeine  
 🧠 Turning complex ideas into clean, scalable solutions  
 🎮 Debugging? It’s just a boss battle — and I always win
 
----
-## 🌐 Socials
 <br>
+
+---
+
+## 🌐 Socials
 <div align="center">
   <a href="https://www.linkedin.com/in/henok-tadele-b781aa176/" style="margin: 0 12px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
