@@ -1,23 +1,34 @@
+<!-- GitHub Profile README -->
+
 <table>
   <tr>
-    <td>
+    <td width="60%">
 
-## A Software Engineer
+## 👋🏾 Hey there, I'm Henok — A Software Engineer
 
-[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud‑Native | Open Source | Neuroscience | Research ]
+**[ Algorithms | Data Science | Machine Learning & AI | NLP | Backend | Frontend | Cloud/Cloud-Native | Open Source | Neuroscience | Research ]**
 
-🚀 Turning coffee into scalable code, one line at a time.  
-🧩 Puzzle enthusiast: I love solving Rubik’s Cubes blindfolded.  
-👾 Fun fact: I built a retro arcade cabinet from scratch using Raspberry Pi!
+---
 
-    </td>
-    <td>
+💡 Fueled by curiosity and caffeine  
+🧠 Turning complex ideas into clean, scalable solutions  
+🎮 I see debugging like a boss battle — and I always win  
+🍕 Can (and will) explain deep learning using pizza metaphors  
+🧪 Research + Engineering + Fun = My sweet spot  
 
-<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="photo" width="200"/>
+---
 
-    </td>
-  </tr>
+**Let's create, break, and rebuild — better, smarter, stronger.**
+
+</td>
+<td>
+
+<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok's photo" width="230" style="border-radius: 15px;"/>
+
+</td>
+</tr>
 </table>
+
 
  
 ### Hye, ሰላም <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
