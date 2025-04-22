@@ -1,23 +1,32 @@
 <!-- GitHub Profile README -->
 
-<table>
-  <tr>
-    <td width="60%">
+<!-- GitHub Profile README -->
 
 ## 👋🏾 Hey there, I'm Henok — A Software Engineer
 
 **[Machine Learning & AI | NLP | Full-Stack | Research | Algorithms | Data Science]**
 
 ---
+
+<img
+  src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659"
+  alt="Henok's photo"
+  align="right"
+  width="200"
+  style="border-radius:15px; margin:0 0 10px 20px;"
+/>
+
 💻 Writing algorithms that make machines smarter every day  
 💡 Fueled by curiosity and caffeine  
 🧠 Turning complex ideas into clean, scalable solutions  
 🎮 Debugging? It’s just a boss battle — and I always win
 
-
 ---
+<br>
 
 ## 🌐 Socials
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henok-tadele-b781aa176/" style="margin: 0 12px;">
@@ -31,14 +40,7 @@
   </a>
 </div>
 
-</td>
-<td align="center">
-
-<img src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659" alt="Henok's photo" width="200" style="border-radius: 15px;"  />
-
-</td>
-</tr>
-</table>
+---
 
 
 
