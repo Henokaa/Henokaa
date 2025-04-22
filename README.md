@@ -12,8 +12,8 @@
   src="https://github.com/user-attachments/assets/c7cd649c-d58b-484a-bb8e-701047bd4659"
   alt="Henok's photo"
   align="right"
-  width="200"
-  style="border-radius:15px; margin:0 0 10px 20px;"
+  width="180"
+  style="border-radius:15px; margin:0 0 2px 2px;"
 />
 
 💻 Writing algorithms that make machines smarter every day  
@@ -22,8 +22,6 @@
 🎮 Debugging? It’s just a boss battle — and I always win
 
 ---
-<br>
-
 ## 🌐 Socials
 
 
