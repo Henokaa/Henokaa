@@ -44,27 +44,18 @@ I'm Henok
 
 ## 🌐 Socials
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/henok-tadele-b781aa176/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/henokaa/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-      </a>
-      <br/>
-      <strong>460+ questions solved</strong>
-    </td>
-    <td>
-      <a href="https://henoka.netlify.app/">
-        <img src="https://img.shields.io/badge/Website-32CD32?logo=netlify&logoColor=white" alt="Portfolio Website Badge"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/henok-tadele-b781aa176/" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/henokaa/" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/LeetCode-460%2B%20Solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://henoka.netlify.app/" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/Website-32CD32?logo=netlify&logoColor=white" alt="Portfolio Website Badge"/>
+  </a>
+</div>
+
 
 
 # 🤖 Tech Stack:
