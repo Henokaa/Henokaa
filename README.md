@@ -42,18 +42,29 @@ I'm Henok
 🔭 I am a software engineer and a data scientist with a strong foundation in machine learning, software engineering, networking, and security.
 👯 I’m looking to collaborate on Software Engineering and Data Science projects.
 
-## 🌐 Socials:
+## 🌐 Socials
 
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-tadele-b781aa176/)
-<br />
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/henokaa/)  **460 questions solved**
-<br />
-
-[![Website](https://img.shields.io/badge/Website-32CD32?logo=netlify&logoColor=white)](https://henoka.netlify.app/)
-<br />
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/henok-tadele-b781aa176/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/henokaa/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+      </a>
+      <br/>
+      <strong>460+ questions solved</strong>
+    </td>
+    <td>
+      <a href="https://henoka.netlify.app/">
+        <img src="https://img.shields.io/badge/Website-32CD32?logo=netlify&logoColor=white" alt="Portfolio Website Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 # 🤖 Tech Stack:
